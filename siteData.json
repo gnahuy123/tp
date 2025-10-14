@@ -1,0 +1,194 @@
+{
+  "enableSearch": true,
+  "pages": [
+    {
+      "src": "AboutUs.md",
+      "title": "About Us",
+      "headings": {
+        "about-us": "About Us",
+        "project-team": "Project team",
+        "goh-jin-yu": "Goh Jin Yu",
+        "tan-yu-hang": "Tan Yu Hang",
+        "desmond-wong-hui-sheng": "Desmond Wong Hui Sheng",
+        "reine-ong-eng-qin": "Reine Ong Eng Qin",
+        "yeo-wen-han-marcus": "Yeo Wen Han, Marcus"
+      },
+      "headingKeywords": {}
+    },
+    {
+      "src": "Configuration.md",
+      "title": "Configuration guide",
+      "headings": {
+        "configuration-guide": "Configuration guide"
+      },
+      "headingKeywords": {}
+    },
+    {
+      "src": "DevOps.md",
+      "title": "DevOps guide",
+      "headings": {
+        "devops-guide": "DevOps guide",
+        "build-automation": "Build automation",
+        "continuous-integration-ci": "Continuous integration (CI)",
+        "code-coverage": "Code coverage",
+        "repository-wide-checks": "Repository-wide checks",
+        "making-a-release": "Making a release"
+      },
+      "headingKeywords": {}
+    },
+    {
+      "src": "DeveloperGuide.md",
+      "title": "Developer Guide",
+      "headings": {
+        "edubase-developer-guide": "EduBase Developer Guide",
+        "acknowledgements": "Acknowledgements",
+        "setting-up-getting-started": "Setting up, getting started",
+        "design": "Design",
+        "architecture": "Architecture",
+        "ui-component": "UI component",
+        "logic-component": "Logic component",
+        "model-component": "Model component",
+        "storage-component": "Storage component",
+        "common-classes": "Common classes",
+        "implementation": "Implementation",
+        "proposed-undo-redo-feature": "[Proposed] Undo/redo feature",
+        "proposed-data-archiving": "[Proposed] Data archiving",
+        "documentation-logging-testing-configuration-dev-ops": "Documentation, logging, testing, configuration, dev-ops",
+        "appendix-requirements": "Appendix: Requirements",
+        "product-scope": "Product scope",
+        "user-stories": "User Stories",
+        "school-level-stories": "School Level Stories",
+        "course-level-stories": "Course Level Stories",
+        "use-cases": "Use cases",
+        "school-level-features": "School Level Features",
+        "course-level-features": "Course Level Features",
+        "non-functional-requirements": "Non-Functional Requirements",
+        "glossary": "Glossary",
+        "appendix-instructions-for-manual-testing": "Appendix: Instructions for manual testing",
+        "launch-and-shutdown": "Launch and shutdown",
+        "deleting-a-person": "Deleting a person",
+        "saving-data": "Saving data"
+      },
+      "headingKeywords": {}
+    },
+    {
+      "src": "Documentation.md",
+      "title": "Documentation guide",
+      "headings": {
+        "documentation-guide": "Documentation Guide"
+      },
+      "headingKeywords": {}
+    },
+    {
+      "src": "Logging.md",
+      "title": "Logging guide",
+      "headings": {
+        "logging-guide": "Logging guide"
+      },
+      "headingKeywords": {}
+    },
+    {
+      "src": "SettingUp.md",
+      "title": "Setting up and getting started",
+      "headings": {
+        "setting-up-and-getting-started": "Setting up and getting started",
+        "setting-up-the-project-in-your-computer": "Setting up the project in your computer",
+        "before-writing-code": "Before writing code"
+      },
+      "headingKeywords": {}
+    },
+    {
+      "src": "Testing.md",
+      "title": "Testing guide",
+      "headings": {
+        "testing-guide": "Testing guide",
+        "running-tests": "Running tests",
+        "types-of-tests": "Types of tests"
+      },
+      "headingKeywords": {}
+    },
+    {
+      "src": "UserGuide.md",
+      "headings": {
+        "edubase-user-guide": "EduBase User Guide",
+        "quick-start": "Quick start",
+        "features": "Features",
+        "system-wide-commands-school-level": "System-Wide Commands (School Level)",
+        "viewing-help-help": "Viewing help : help",
+        "creating-a-course-create-course": "Creating a Course: create_course",
+        "viewing-all-courses-view-all-courses": "Viewing All Courses: view_all_courses",
+        "deleting-a-course-delete-course": "Deleting a Course: delete_course",
+        "registering-a-new-student-register": "Registering a New Student: register",
+        "deregistering-a-student-deregister-student": "Deregistering a Student: deregister_student",
+        "entering-a-course-enter-course": "Entering a Course: enter_course",
+        "course-level-commands": "Course-Level Commands",
+        "adding-student-to-course-add-student": "Adding Student to Course: add_student",
+        "removing-student-from-course-remove-student": "Removing Student from Course: remove_student",
+        "creating-a-session-create-session": "Creating a Session: create_session",
+        "marking-unmarking-attendance-mark-unmark": "Marking/Unmarking Attendance: mark / unmark",
+        "viewing-attendance-view-attendance": "Viewing Attendance: view_attendance",
+        "exiting-a-course-exit-course": "Exiting a Course: exit_course",
+        "faq": "FAQ",
+        "known-issues": "Known issues",
+        "command-summary": "Command summary"
+      },
+      "headingKeywords": {}
+    },
+    {
+      "src": "index.md",
+      "title": "",
+      "headings": {
+        "edubase": "EduBase"
+      },
+      "headingKeywords": {}
+    },
+    {
+      "src": "team/beastarz.md",
+      "title": "Jin Yu's Project Portfolio Page",
+      "headings": {
+        "project-edubase": "Project: EduBase"
+      },
+      "headingKeywords": {}
+    },
+    {
+      "src": "team/desmondwong.md",
+      "title": "Desmond Wong's Project Portfolio Page",
+      "headings": {
+        "project-edubase": "Project: EduBase"
+      },
+      "headingKeywords": {}
+    },
+    {
+      "src": "team/johndoe.md",
+      "title": "John Doe's Project Portfolio Page",
+      "headings": {
+        "project-addressbook-level-3": "Project: AddressBook Level 3"
+      },
+      "headingKeywords": {}
+    },
+    {
+      "src": "team/marcus.md",
+      "title": "John Doe's Project Portfolio Page",
+      "headings": {
+        "project-addressbook-level-3": "Project: AddressBook Level 3"
+      },
+      "headingKeywords": {}
+    },
+    {
+      "src": "team/reine.md",
+      "title": "Reine's Project Portfolio Page",
+      "headings": {
+        "project-edubase": "Project: Edubase"
+      },
+      "headingKeywords": {}
+    },
+    {
+      "src": "team/yuhang.md",
+      "title": "Yu Hang's Project Portfolio Page",
+      "headings": {
+        "project-edubase": "Project: EduBase"
+      },
+      "headingKeywords": {}
+    }
+  ]
+}
